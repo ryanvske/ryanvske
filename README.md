@@ -8,7 +8,7 @@
   <a href="https://github.com/ryanvske">
   <img align="right" alt="Coffee_gif" src="https://c.tenor.com/zcr8c2sf2DIAAAAC/coffee-anime.gif" width="150" height="150">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ryanvske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvske&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvske&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div>
