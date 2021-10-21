@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 168 hours
-    - cron: "* */168 * * *"
+    - cron: "* */96 * * *"
   workflow_dispatch:
 
 jobs:
