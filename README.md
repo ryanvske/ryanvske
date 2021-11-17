@@ -1,8 +1,7 @@
 ### Olá! eu sou o Ryan Noviski 👋
 
 - 💻 Iniciante cursando programação
-- 🐍 Estudando python
-- 📱 Contato no direct do instagram
+
 ----------------------------------------------------------------
  <div>
   <a href="https://github.com/ryanvske">
